@@ -4,8 +4,8 @@
 
 <a href="https://github.com/negostavo">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=negostavo&theme=midnight-purple&show_icons=true"/> 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=negostavo&layout=compact"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=negostavo&theme=midnight-purple&show_icons=true"/> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=negostavo&layout=compact"/>
+
 
 </div>
 <div> 
