@@ -9,6 +9,6 @@
 
 <a href="https://github.com/negostavo">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/ap17username-nwgostavo&show_icons-trueßtheme-draculašinclude_all_commits-truekcount private-true"/> <ing height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username-negostavo&layout-compact&langs_count-16&theme-dracula"/>
-
- </div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=negostavo&theme=midnight-purple&show_icons=true"/> 
+<ing height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=negostavo&layout=compact"/>
+</div>
