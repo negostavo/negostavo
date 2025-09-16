@@ -12,8 +12,6 @@
 </div>
 
 <div align="center">
-<br><p align="centre"><b>Visitas ao meu perfil:</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{negostavo}/count.svg" /></p> 
 <br>
 </div>
 
